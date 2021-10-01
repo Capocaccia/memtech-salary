@@ -2,10 +2,9 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-// Testing data output
+// Temp static data placeholder
 const SalaryData = require('./data/MemtechSalaryData.json');
 
-console.log(SalaryData);
 
 function App() {
   return (
