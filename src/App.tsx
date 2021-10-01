@@ -2,6 +2,11 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+// Testing data output
+const SalaryData = require('./data/MemtechSalaryData.json');
+
+console.log(SalaryData);
+
 function App() {
   return (
     <div className="App">
