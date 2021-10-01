@@ -2,6 +2,10 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+// Temp static data placeholder
+const SalaryData = require('./data/MemtechSalaryData.json');
+
+
 function App() {
   return (
     <div className="App">
